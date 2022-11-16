@@ -1,0 +1,11 @@
+
+train: /content/drive/MyDrive/CAS_PRATIQUE_Verificateur_Uniforme/Coco_Format/images/train
+val: /content/drive/MyDrive/CAS_PRATIQUE_Verificateur_Uniforme/Coco_Format/images/val
+
+nc : 4
+
+names :
+  0 : casque
+  1 : no_casque
+  2 : gilet
+  3 : no_gilet
