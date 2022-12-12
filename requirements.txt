@@ -12,4 +12,3 @@ seaborn
 scipy
 opencv-python
 queuelib==1.5.0
-time
