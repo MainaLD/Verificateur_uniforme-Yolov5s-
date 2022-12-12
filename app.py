@@ -17,7 +17,7 @@ labels = ['Casque_OK','Casque_NON','Gilet_OK','Gilet_NON']
 messages = ["Aucune détection", "Uniforme vérifié", "Uniforme non vérifié"]
 
 # Chargement du modèle
-path = '../Models/data_aug_high/yolov5m/mod_yolo5m_b16_e100/weights/best.pt' #Modèle le plus léger
+path = 'Streamlit_App/Models/best_v5s_b64.pt'
 modele_yolo = torch.hub.load('ultralytics/yolov5', 'custom', path=path, force_reload=False) #False / True si error 403
 
 CONFIDENCE_THRESHOLD = 0.75 # Seuil de confidence de la pred
