@@ -10,3 +10,6 @@ tqdm
 matplotlib
 seaborn
 scipy
+opencv
+queue
+time
