@@ -93,7 +93,7 @@ def live_detection():
             if not ancien_detection :
                 print("PAS DE DETECTION")
                 champs_message.info(messages[0])
-            elif 1 in ancien_detection and 3 in ancien_detection:
+            elif 1 in ancien_detection or 3 in ancien_detection:
                 print('INCOMPLET')
                 champs_message.error(messages[2])
             else:
