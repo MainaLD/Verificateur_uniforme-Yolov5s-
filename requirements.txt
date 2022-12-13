@@ -12,3 +12,4 @@ seaborn
 scipy
 opencv-python-headless 
 queuelib==1.5.0
+ipython
