@@ -1,5 +1,5 @@
 # CAS PRATIQUE : Vérificateur d’uniforme
-dans le cadre de l'examen pour le diplome de développeur en IA, j'ai pour objectif d'améliorer une application existante.
+Dans le cadre de l'examen pour le diplome de développeur en IA, j'ai pour objectif d'améliorer une application existante.
 Cette application est une application pour vérifier le port de l'uniforme : port du casque et du gilet.
 La version de base ne détecté pas les gilets (app_original.py).
 
