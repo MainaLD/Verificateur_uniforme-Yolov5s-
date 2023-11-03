@@ -3,7 +3,7 @@
 *.md linguist-language=Markdown
 *.yml linguist-language=YAML
 *.txt linguist-language=Text
-*.png linguist-language=Image
-*.jpg linguist-language=Image
-*.jpeg linguist-language=Image
+# *.png linguist-language=Image
+# *.jpg linguist-language=Image
+# *.jpeg linguist-language=Image
 *.pt linguist-language=Model
