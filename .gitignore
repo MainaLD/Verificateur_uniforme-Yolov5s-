@@ -5,4 +5,7 @@ app_yolov5s.py
 Models/yolov5s.pt
 analyse_dataset_label - Copie.ipynb
 env
+requirements_v0.txt
+requirements_v1.txt
 requirements_v2.txt
+requirements_v3.txt
