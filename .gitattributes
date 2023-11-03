@@ -1,0 +1,8 @@
+# Fichiers Jupyter Notebook (ipynb)
+*.ipynb linguist-vendored
+
+# Fichiers Python
+*.py linguist-vendored
+
+# Fichier README
+README.md linguist-vendored
