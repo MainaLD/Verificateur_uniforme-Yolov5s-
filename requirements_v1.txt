@@ -12,7 +12,3 @@ seaborn
 scipy
 opencv-python==4.6.0.66
 queuelib==1.5.0
-
-altair==4.0 # if error
-psutil
-ultralytics
