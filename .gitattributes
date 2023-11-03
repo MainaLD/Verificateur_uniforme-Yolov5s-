@@ -1,8 +1,9 @@
-# Fichiers Jupyter Notebook (ipynb)
-*.ipynb linguist-vendored
-
-# Fichiers Python
-*.py linguist-vendored
-
-# Fichier README
-README.md linguist-vendored
+*.ipynb linguist-language=Jupyter Notebook
+*.py linguist-language=Python
+*.md linguist-language=Markdown
+*.yml linguist-language=YAML
+*.txt linguist-language=Text
+*.png linguist-language=Image
+*.jpg linguist-language=Image
+*.jpeg linguist-language=Image
+*.pt linguist-language=Model
